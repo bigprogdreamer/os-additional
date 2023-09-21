@@ -1,0 +1,3 @@
+all: oSs
+CFLAGS += -O2 -Wall
+LDLIBS += -lcrypt -lpthread
